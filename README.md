@@ -25,7 +25,7 @@ The purpose of this project is to implement an a crank-rocker mechanisms to simu
 > CAD Drawings
 
 ## Final Prototype
-![prototype](Images/wiringDiagram.PNG)
+![prototype](Images/print.PNG)
 > 3D Printed Design
 
 ## Status
