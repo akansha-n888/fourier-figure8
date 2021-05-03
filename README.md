@@ -33,6 +33,7 @@ Project is: _finished_
 
 ## Contact
 > Created by [@akansha-n888](https://www.linkedin.com/in/akansha-nagar/),
-> [Sujan Sribalan](mailto:sujan.sribalan@ryerson.ca?subject=[GitHub]%20Source%20Han%20Sans),
-> [Connor Bouwmans](mailto:cbouwmans@ryerson.ca?subject=[GitHub]%20Source%20Han%20Sans),
-> [Saran Gnanapandithan](mailto:saran.gnanapandithan@ryerson.ca?subject=[GitHub]%20Source%20Han%20Sans)
+> [Rohan Syal](mailto:rohan.syal@ryerson.ca?subject=[GitHub]%20Source%20Han%20Sans),
+> [Celia Lin](mailto:celia.lin@ryerson.ca?subject=[GitHub]%20Source%20Han%20Sans),
+> [Jacob Sunglao](mailto:jacob.sunglao@ryerson.ca?subject=[GitHub]%20Source%20Han%20Sans),
+> [Hinesh Maisuria](mailto:hmaisuria@ryerson.ca?subject=[GitHub]%20Source%20Han%20Sans)
