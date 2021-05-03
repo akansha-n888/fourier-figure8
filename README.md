@@ -17,7 +17,7 @@ The purpose of this project is to implement an a crank-rocker mechanisms to simu
 * MATLAB R2020a
 
 ## Simulated Results
-![plot](Images/snake.PNG)
+![plot](Images/Images/plot.PNG)
 > Figure 8 Simulation
 
 ## Design Assembly
