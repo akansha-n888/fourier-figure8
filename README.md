@@ -21,7 +21,7 @@ The purpose of this project is to implement an a crank-rocker mechanisms to simu
 > Figure 8 Simulation
 
 ## Design Assembly
-![assembly](Images/snake.PNG)
+![assembly](Images/link.PNG)
 > CAD Drawings
 
 ## Final Prototype
